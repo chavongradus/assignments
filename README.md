@@ -6,3 +6,6 @@
 
 R:
 (Graded assignment 1) https://github.com/chavongradus/assignments/blob/master/graded_assignment_1_chavongradus.Rmd
+
+R:
+(Graded assignment 2) https://github.com/chavongradus/assignments/blob/master/graded_assignment_2_chavongradus.Rmd
