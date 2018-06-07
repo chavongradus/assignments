@@ -12,3 +12,6 @@ R:
 
 Python:
 (Exam June 7 2018) https://github.com/chavongradus/assignments/blob/master/exam_june_7_2018.ipynb
+
+R:
+(Exam final june 7 2018) https://github.com/chavongradus/assignments/blob/master/Exam_student.ipynb
