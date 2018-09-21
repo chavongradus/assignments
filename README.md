@@ -20,4 +20,4 @@ R:
 
 Exam sep 21 python: https://github.com/chavongradus/assignments/blob/master/exam_Sep_21_2018.ipynb 
 
-Exam sep 21 R: 
+Exam sep 21 R: https://github.com/chavongradus/assignments/blob/master/exam_2_student_final.Rmd
