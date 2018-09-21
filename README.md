@@ -15,3 +15,9 @@ Python:
 
 R:
 (Exam final june 7 2018) https://github.com/chavongradus/assignments/blob/master/Exam_student.ipynb
+
+
+
+Exam sep 21 python: https://github.com/chavongradus/assignments/blob/master/exam_Sep_21_2018.ipynb 
+
+Exam sep 21 R: 
